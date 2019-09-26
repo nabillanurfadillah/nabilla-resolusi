@@ -3,6 +3,7 @@ RENCANA KODING NABILLA
 -PPL
   *sipnat
   *blabla
+-skripsi
 -SPK
 -SIMPEG
 -E-LEARNING
