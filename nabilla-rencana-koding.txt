@@ -4,6 +4,7 @@ RENCANA KODING NABILLA
   *sipnat
   *blabla
   *pipi
+  *pipo
 -skripsi
 -SPK
 *yy
